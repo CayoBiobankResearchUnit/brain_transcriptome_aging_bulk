@@ -1,0 +1,14 @@
+# Ignore everything in this directory
+*
+# Except
+!README.md
+!LICENSE
+!data
+!checkpoints
+!figures
+!scripts
+!scripts/*.R
+!scripts/*.sh
+!scripts/*.py
+!scripts/*.pl
+!scripts/*.slurm
